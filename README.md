@@ -18,7 +18,7 @@ your-project-folder/
 ├── iris-web/
 │   ├── docker-compose.yml
 │   └── other project files...
-└── start-iris.bat   ← The script must be here
+└── deploy-iris.bat   ← The script must be here
 ```
 
 ## ⚙️ What the Script Does
@@ -45,7 +45,3 @@ your-project-folder/
 
 **Make sure to adjust the script if you use different installation paths or a different browser.**
 
-## 📌 Tip
-
-You can create a shortcut to this script on your desktop for quick access.  
-Right-click → "Create Shortcut" → Optional: "Run as Administrator".
