@@ -1,4 +1,4 @@
-# 🚀 IRIS-Web Startup Script
+# IRIS-Web Startup Script
 
 This repository includes a batch script that automates the setup and shutdown process of the **DFIR-IRIS web application** using Docker.
 
