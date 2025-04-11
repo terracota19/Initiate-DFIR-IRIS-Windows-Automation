@@ -1,5 +1,11 @@
 # IRIS-Web Startup Script
 
+## 🔗 Related Repository
+
+This project relies on the [dfir-iris/iris-web](https://github.com/dfir-iris/iris-web) repository, which contains the DFIR-IRIS web application.
+
+Please make sure to clone that repository as part of your project structure.
+
 This repository includes a batch script that automates the setup and shutdown process of the **DFIR-IRIS web application** using Docker.
 
 ## 📂 File Structure Requirement
