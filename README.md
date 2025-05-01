@@ -9,8 +9,9 @@ Please make sure to clone that repository as part of your project structure.
 This repository includes a batch script that automates the setup and shutdown process of the **DFIR-IRIS web application** using Docker.
 
 ## 📂 File Structure Requirement
-
-**Important:** The batch file **must be placed one level above** the `iris-web` folder.  
+> [!WARNING] 
+> The batch file **must be placed one level above** the `iris-web` folder.
+> 
 This is because the script contains the command:
 
 `cd /d .\iris-web`
